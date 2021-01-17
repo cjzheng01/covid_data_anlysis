@@ -1,0 +1,2 @@
+# covid_data_anlysis
+In this project, data were scraped from certain COVID-19 data summary websites. The number of confirmed cases (of the COVID-19 virus) in China varied across the country and were categorized accordingly to the severeness (or number of cases), and were presented by varying shades of a colour (on an interactive map), with the darker shade indicating a high number of cases and the lighter shade indicating a low number of cases.
